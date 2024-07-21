@@ -9,6 +9,8 @@ Aplicativo de lista de compras para organização eficiente.
 Durante minhas compras mensais, utilizei uma lista no WhatsApp como de rotina e percebi que alguns itens foram esquecidos. Isso me inspirou a desenvolver uma solução para um melhor controle do que já foi adicionado ao carrinho ou não.
 O aplicativo lista todos os itens que supostamente seriam enviados via WhatsApp. No entanto, cada item possui interação: se o item já estiver no carrinho, basta clicar nele no aplicativo para que seu estado seja modificado. Isso facilita a visualização do que já foi comprado e do que falta comprar.
 
+<img src="https://lh3.googleusercontent.com/pw/AP1GczN2p1NE0G_0EiDYrv3e2hu_cKxLTzWdV-MSBs9KLzoTgymzo4z3YoxIi2EK3f6yV5cqTBN4f3tdyZ6kijce3aXmQT-Xmc6QP3Qd0i3mrVzJfI1kBJmza0AArzXWtrMev0ATTR7DYmj6Mtrvs82zkN49Ng=w416-h864-s-no-gm" alt="Tela principal do aplicativo com quatro items de mercado adicionado, sendo 2 deles selecionado como comprados.">
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.

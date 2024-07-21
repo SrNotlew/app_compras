@@ -1,6 +1,9 @@
 # app_compras
 
-A new Flutter project.
+Aplicativo de lista de compras para organização eficiente.
+
+Durante minhas compras mensais, utilizei uma lista no WhatsApp como de rotina e percebi que alguns itens foram esquecidos. Isso me inspirou a desenvolver uma solução para um melhor controle do que já foi adicionado ao carrinho ou não.
+O aplicativo lista todos os itens que supostamente seriam enviados via WhatsApp. No entanto, cada item possui interação: se o item já estiver no carrinho, basta clicar nele no aplicativo para que seu estado seja modificado. Isso facilita a visualização do que já foi comprado e do que falta comprar.
 
 ## Getting Started
 
